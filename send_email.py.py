@@ -4,7 +4,7 @@ from email.mime.multipart import MIMEMultipart
 from openpyxl import load_workbook
 
 gmail_user = "gouthampaladugu@gmail.com"
-gmail_appPassword = "secURITy1@"
+gmail_appPassword = "*********"
 
 msg = MIMEMultipart('alternative')
 sent_from = ['gouthampaladugu@gmail.com']
